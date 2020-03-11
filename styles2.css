@@ -1,0 +1,131 @@
+h1, h2, h3, nav, footer {
+ font-family: Georgia, Cambria;
+}
+body {
+ font-family: Tahoma, sans-serif;
+ font-size: 100%;
+ color: #e69215;
+ background-repeat: repeat;
+ background-color: #ffffff;
+}
+body {
+    background-image:;
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: contain;
+}
+#main_container {
+    margin-left: auto;
+    margin-right: auto;
+	background-color: #fae92d;
+    width: 75%;  
+}
+h1 { 
+ font-size: 22px; 
+  font-size: 2.20rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 1.2em;
+}
+h3 { 
+  font-size: 20px; 
+  font-size: 1.125rem;
+  background-color:  #bf3030;
+	padding:.25em;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	color:white;
+}
+h4 { 
+  font-size: 15px; 
+  font-size: 1.0rem;
+  
+}
+h5 { 
+   font-size: 20px; 
+   font-size: 1.5rem;
+   background-color: #fae92d;
+    padding:.25em;
+    border-bottom: 2px solid black;
+    border-top: 1.5px solid black;
+    color:white;
+ }
+p {
+  font-size: 18px; 
+  font-size: 1rem;
+}
+nav { 
+  font-size: 18px; 
+  font-size: 1.125rem;
+}
+
+/* link styles */
+
+a:link {
+   font-weight: bold;
+   color: #e4ed5f;
+}
+a:visited {
+   color: #ff665b;
+}
+a:hover {
+   background-color: #ffdac1;
+}
+
+
+/* header and nav */
+
+header {
+  color: #ffffff;
+  background-color: #e39f0b;
+  margin: 0em 0em 0em 0em;
+  padding: 1.25em;
+
+}
+hgroup {
+  padding: 0.5em;
+}
+nav {
+  background-color: #f5e664;
+}
+nav ul li {
+   list-style: none;
+   display: inline;
+}
+nav {
+   padding: 0.1em;
+}
+
+nav a {
+   color: #000000;
+   padding: 0.25em;
+}
+nav a:visited  {
+   color: #000000;
+   padding: 0.25em;
+}
+nav a:link  {
+   color: #000000;
+   padding: 0.25em;
+}
+nav a:hover  {
+   background-color: #FFFFFF;
+   color: #000000;
+}
+
+/* section styling */
+section {
+   background-color: white;
+   margin: 0em 9em 1em 3em;
+   padding: 0.25em;
+}
+
+
+/* footer styling */
+footer {
+  padding: 0.5em;
+}
+footer p {
+  font-size: 10px; 
+  font-size: .875rem;
+}
