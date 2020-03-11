@@ -1,0 +1,13 @@
+#main {
+    width: 125%; margin: auto; overflow:auto;
+}
+#main .col1 {
+    float: left; width: 65%; margin-left: 12px; border: 5px solid rgb(255, 255, 255);
+}
+#main .col2 {
+    float: left; width: 65%; margin-left: 12px; border: 5px solid rgb(255, 255, 255);
+}
+#main .col3 {
+    float: left; width: 65%; margin-left: 12px; border: 5px solid rgb(255, 255, 255);
+}
+.clear {clear: both;}
